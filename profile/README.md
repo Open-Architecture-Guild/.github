@@ -10,11 +10,6 @@ We believe there is a better way. This organization is home to resources designe
 
 ---
 
-## Key Repositories
-* **[`capability-map`](https://github.com/your-org/capability-map)** *(Example)*: The core repository containing the open-source business capability map, structured hierarchically in clean YAML and Markdown formats.
-
----
-
 ## Core Principles
 1. **Business-Centric**: Focuses purely on *what* an organization does, entirely independent of *how*, *where*, or *by whom* it is executed.
 2. **Stable & Outcome-Oriented**: Built around long-term enterprise capabilities tied directly to business outcomes and KPIs.
